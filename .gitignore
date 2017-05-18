@@ -1,3 +1,17 @@
+# dependencies
+node_modules
+static
+static_
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
 # Logs
 logs
 *.log
@@ -56,4 +70,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
