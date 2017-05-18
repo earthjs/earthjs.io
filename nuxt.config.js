@@ -10,7 +10,13 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Nuxt.js project' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { type: 'text/css', rel: 'stylesheet', href: './css/earthjs.css'}
+    ],
+    script: [
+        {src: './js/d3.min.js'},
+        {src: './js/topojson.min.js'},
+        {src: './js/earthjs.js'}
     ]
   },
   /*

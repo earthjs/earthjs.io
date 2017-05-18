@@ -1,4 +1,4 @@
-# wow
+# earthjs.io
 
 > Nuxt.js project
 
