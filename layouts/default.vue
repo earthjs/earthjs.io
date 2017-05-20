@@ -2,7 +2,7 @@
     <div class="">
         <div class="top">
             <nuxt-link to="/">Home</nuxt-link> -
-            <nuxt-link to="/example/quickstart">Quick</nuxt-link>
+            <nuxt-link to="/example/quickstart">Example</nuxt-link>
         </div>
         <script type='text/javascript' src="./ex/eQuakeApp.js"></script>
         <nuxt/>

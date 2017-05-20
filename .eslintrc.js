@@ -14,6 +14,7 @@ module.exports = {
   rules: {},
   globals: {
       "d3": true,
+      "Vue": true,
       "queue": true,
       "THREE": true,
       "window": true,
