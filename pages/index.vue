@@ -27,13 +27,26 @@ export default {
 </script>
 
 <style>
+#earth, .canvas {
+    left: -200px;
+}
+.top {
+    padding: 10px 0 0 15px;
+}
+.set-options {
+    top: 40px;
+}
+.set-options button {
+    margin-left: 15px;
+}
 .set-options2 {
     position: absolute;
-    margin-top: 60px;
-    margin-left: 10px;
+    margin-top: 70px;
+    margin-left: 5px;
     z-index: 5;
 }
 .set-options2 label {
     display: block;
+    margin: 10px 0 0 15px;
 }
 </style>

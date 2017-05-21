@@ -1,8 +1,8 @@
 <template>
     <div class="">
         <div class="top">
-            <nuxt-link to="/">Home</nuxt-link> -
-            <nuxt-link to="/example/quickstart">Example</nuxt-link>
+            <nuxt-link to="/"><b>Earthquake</b></nuxt-link>
+            Feeds from: <a href="https://earthquake.usgs.gov/earthquakes/" target="_blank">USGS</a>
         </div>
         <script type='text/javascript' src="./ex/eQuakeApp.js"></script>
         <nuxt/>
