@@ -4,6 +4,7 @@
         <svg id="earth"></svg>
         <canvas class="canvas"></canvas>
         <div class="set-options2">
+            <label><input @click="mag" type="radio" name="magnitue" v-model="v" value="6"> mag:6</input></label>
             <label><input @click="mag" type="radio" name="magnitue" v-model="v" value="5"> mag:5</input></label>
             <label><input @click="mag" type="radio" name="magnitue" v-model="v" value="4"> mag:4</input></label>
             <label><input @click="mag" type="radio" name="magnitue" v-model="v" value="3"> mag:3</input></label>
