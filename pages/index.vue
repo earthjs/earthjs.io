@@ -20,7 +20,7 @@ export default {
     methods: {
         mag(e) {
             const value = +e.target.value;
-            window.p.eQuakeApp.mag(value);
+            window.g.eQuakeApp.mag(value);
         },
         v: '3'
     },
