@@ -1,10 +1,10 @@
 <template>
     <div id="app-eq">
         <div class="set-options"></div>
-        <svg id="earth" class="ea-layer ea-1"></svg>
         <div class="c-canvas">
-            <canvas  class="canvas ea-layer ea-2"></canvas>
-            <canvas  class="canvas ea-layer ea-3"></canvas>
+            <svg id="earth-js"></svg>
+            <canvas  class="ej-canvas"></canvas>
+            <canvas  class="ej-canvas"></canvas>
         </div>
         <div class="set-options2">
         </div>

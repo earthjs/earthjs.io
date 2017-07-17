@@ -2,7 +2,8 @@
     <div class="">
         <div class="top">
             <nuxt-link to="/"><b>Earthquake</b></nuxt-link>
-            Feeds from: <a href="https://earthquake.usgs.gov/earthquakes/" target="_blank">USGS</a>
+            Feeds from: <a href="https://earthquake.usgs.gov/earthquakes/" target="_blank">USGS</a> |
+            <a href="/example.html">Eartjs Demo</a>
         </div>
         <script type='text/javascript' src="./ex/eQuakeApp.js"></script>
         <nuxt/>
