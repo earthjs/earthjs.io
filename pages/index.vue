@@ -2,9 +2,9 @@
     <div id="app-eq">
         <div class="set-options"></div>
         <div class="c-canvas">
-            <svg id="earth-js"></svg>
-            <canvas  class="ej-canvas"></canvas>
-            <canvas  class="ej-canvas"></canvas>
+            <svg id="earth-js" class="ea-layer"></svg>
+            <canvas  class="ej-canvas ea-layer"></canvas>
+            <canvas  class="ej-canvas ea-layer"></canvas>
         </div>
         <div class="set-options2">
         </div>
