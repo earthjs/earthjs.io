@@ -32,7 +32,7 @@ export default {
 
 <style>
 #earth, .c-canvas {
-    left: -200px;
+    left: -120px;
 }
 .c-canvas {
     position: absolute;
